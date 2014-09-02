@@ -18,7 +18,7 @@
 #banner {
   background: #9c9;
   padding: 10px;
-  border-bottom: 2px solid;
+  border-bottom: 3px solid;
   font: small-caps 40px/40px "Times New Roman", serif;
   color: #282;
   text-align: center;
@@ -48,7 +48,7 @@
 
   #side {
     float: left;
-    padding: 1em 2em;
+    padding: .5em 2em;
     width: 9em;
     background: #151;
   
@@ -57,7 +57,7 @@
       li {
         list-style: none;
         a {
-          color: #bfb;
+          color: #cfc;
           font-size: small;
         }
       }
