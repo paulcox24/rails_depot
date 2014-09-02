@@ -17,7 +17,7 @@
 #banner {
   background: #9c9;
   padding: 10px;
-  border-bottom: 2px solid;
+  border-bottom: 3px solid;
   font: small-caps 40px/40px "Times New Roman", serif;
   color: #282;
   text-align: center;
@@ -29,7 +29,7 @@
 
 #notice {
   color: #000 !important;
-  border: 2px solid red;
+  border: 2px solid green;
   padding: 1em;
   margin-bottom: 2em;
   background-color: #f0f0f0;
@@ -61,7 +61,7 @@
 
     #cart {
       font-size: smaller;
-      color:     white;
+      color:     #eee;
 
       table {
         border-top:    1px dotted #595;
